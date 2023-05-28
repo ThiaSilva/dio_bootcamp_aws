@@ -1,4 +1,4 @@
-service: dio-live-project
+service: dio-live-serverless
 
 frameworkVersion: '2'
 
